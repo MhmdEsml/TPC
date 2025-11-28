@@ -58,7 +58,7 @@ def download_dataset(
     try:
         print(f"Downloading dataset '{dataset_name}' from: {download_url}")
         urllib.request.urlretrieve(download_url, output_path)
-        print(f"Successfully downloaded to: {output_path}")
+        print(f"Downloaded to: {output_path}")
         return output_path
     except Exception as error:
         print(f"Download failed: {error}")
@@ -106,7 +106,6 @@ def load_volume(
         
         # Reshape to 3D volume
         volume = volume_data.reshape((depth, height, width))
-        print(f"Successfully loaded volume with shape: {volume.shape}")
         
         return volume
         
@@ -186,3 +185,4 @@ def create_train_generator(
             batch['porosity'] = np.asarray(porosity_batch)
 
         yield batch
+
