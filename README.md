@@ -1,18 +1,18 @@
 # TPCFLib: High-Performance Two-Point Correlation Function Computation
 
 <p align="center">
-  <img src="https://github.com/MhmdEsml/TPC/blob/main/0.png?raw=true"
-       alt="TPCFLib Banner"
-       width="800">
-</p>
-
-<p align="center">
   <a href="https://python.org/">
     <img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python version">
   </a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/MhmdEsml/TPC/blob/main/0.png?raw=true"
+       alt="TPCFLib Banner"
+       width="800">
 </p>
 
 ## 📖 Overview
