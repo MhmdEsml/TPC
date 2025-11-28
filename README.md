@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://pypi.org/project/tpcflib/">
-    <img src="https://img.shields.io/pypi/v/tpcflib" alt="PyPI version">
-  </a>
   <a href="https://python.org/">
     <img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python version">
   </a>
