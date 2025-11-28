@@ -129,7 +129,7 @@ def create_train_generator(
     Reproducible if seed is provided.
     """
 
-    # Local RNG (KEY LINE)
+    # Local RNG
     rng = np.random.default_rng(seed)
 
     volume_depth, volume_height, volume_width = volume.shape
@@ -185,4 +185,5 @@ def create_train_generator(
             batch['porosity'] = np.asarray(porosity_batch)
 
         yield batch
+
 
