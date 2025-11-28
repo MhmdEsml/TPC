@@ -38,4 +38,6 @@ where $I(\mathbf{x})$ is the indicator function of the phase of interest at posi
 
 ### Installation
 ```bash
-pip install tpc
+git clone https://github.com/MhmdEsml/TPC.git
+cd TPC
+pip install -e .
