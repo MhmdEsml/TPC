@@ -1,7 +1,7 @@
 # TPCFLib: High-Performance Two-Point Correlation Function Computation
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x200/2E86AB/FFFFFF?text=TPCFLib+%E2%80%93+Fast+Two-Point+Correlation+Functions" alt="TPCFLib Banner" width="800">
+  <img src="[https://via.placeholder.com/800x200/2E86AB/FFFFFF?text=TPCFLib+%E2%80%93+Fast+Two-Point+Correlation+Functions](https://github.com/MhmdEsml/TPC/blob/main/0.png)" alt="TPCFLib Banner" width="800">
 </p>
 
 <p align="center">
