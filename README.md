@@ -1,4 +1,4 @@
-# TPCFLib: High-Performance Two-Point Correlation Function Computation
+# TPC: High-Performance Two-Point Correlation Function Computation in JAX/PyTorch (GPU/TPU)
 
 <p align="center">
   <a href="https://python.org/">
