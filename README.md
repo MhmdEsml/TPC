@@ -32,7 +32,7 @@ where $I(\mathbf{x})$ is the indicator function of the phase of interest at posi
 - **Multi-Backend Support**: Choose between PyTorch and JAX for optimal performance
 - **Batch Processing**: Efficient computation on multiple 3D volumes simultaneously
 - **Porous Media Datasets**: Built-in access to standard porous media datasets
-- **GPU/TPU Acceleration**: Automatic GPU?TPU utilization when available (using JAX for TPU)
+- **GPU/TPU Acceleration**: Automatic GPU/TPU utilization when available (using JAX for TPU)
 
 ## 📦 Installation
 
